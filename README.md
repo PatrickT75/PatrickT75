@@ -1,6 +1,6 @@
 ### Hi there!
 
-You can call me a healthician! I am passionate about all things health and wellbeing. As we approach newer and higher territories in  human health, we need  lots of data at every step: to understand the mechanisms of disease, predict how noncommunicable diseases will grow over time, and evaluate the efficacy of our dietary and pharmacological interventions. I am interested in how we can take advantage of this data to get new insights and bring healthcare both forward and around to the world.
+I'm Patrick Kurnia! You can call me a healthician because I am passionate about all things health and wellbeing. As we approach newer and higher territories in human health, we need  lots of data at every step: to understand the mechanisms of disease, predict how noncommunicable diseases will grow over time, and evaluate the efficacy of our dietary and pharmacological interventions. I am interested in how we can take advantage of this data to get new insights and bring healthcare both forward and around to the world.
 
 I study nutrition at the Institute of Human Nutrition, Columbia University, as well as biochemistry and computational biology at UCLA. I am part of the Rai Lab at Columbia University Medical Center, where we study protein biomarkers of many common and rare cancers. I'm currently working on a web-based application to streamline proteomics analysis so that researchers can go from raw data to candidate biomarkers in no time.
 
