@@ -19,9 +19,9 @@ Machine Learning: *Scikit-learn*, *caret*
 
 Data Visualization: *Matplotlib*, *Ggplot2*, *R Shiny*
 
-Databases: *SQL*
+Biostatistics: *Microsoft Excel*, *Kaplan-Meier*, *Cox Modeling*, *Power Analysis*
 
-Others: *Simulink*, *Microsoft Excel*
+Others: *Simulink*, *SQL*
 
 Lab Work: *PCR*, *DNA Extraction*, *Western Blot*, *Mass Spectrometry*, *SDS-PAGE*
 
