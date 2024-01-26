@@ -11,7 +11,7 @@ In my spare time, I love to do sports (badminton in particular), cook foods from
 You can also see my [writings](https://kurniapatrick.wordpress.com/) here on food, science and anything in between.
 
 ### Skills
-Computer Science: *C++*, 
+Computer Science: *C++*
 
 Data Analysis: *Python*, *Matlab*, *R*, *numpy*, *pandas*, *scipy*
 
